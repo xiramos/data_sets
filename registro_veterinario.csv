@@ -1,0 +1,7 @@
+id_mascota,id_dueño,especie,peso_kg,costo_atencion
+1,101,Perro,15.5,25000
+2,102,Gato,4.2,15000
+3,,Perro,20.0,Gratis
+4,104,,-999,30000
+5,105,Loro,1.5,12000
+2,102,Gato,4.2,15000
