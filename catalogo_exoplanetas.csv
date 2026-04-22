@@ -1,0 +1,10 @@
+id_planeta,nombre,metodo_descubrimiento,tipo_planeta,masa_terrestre,distancia_anios_luz,telescopio
+1,Kepler-452b,Transito,Super-Tierra,5.0,1402,Kepler
+2,Proxima Centauri b,Velocidad Radial,Rocoso,1.2,4,HARPS
+3,HD 209458 b,Transito,Gigante Gaseoso,,159,Hubble
+4,Teegarden b,Velocidad Radial,Rocoso,1.0,12,CARMENES
+5,Teegarden c,Velocidad Radial,Rocoso,1.1,12,CARMENES
+6,Teegarden d,Velocidad Radial,Rocoso,1.2,12,CARMENES
+7,Kepler-22b,Transito,Super-Tierra,36.0,-1,Kepler_Antiguo
+8,51 Pegasi b,Velocidad Radial,Gigante Gaseoso,150.0,50,Observatorio_Haute_Provence
+2,Proxima Centauri b,Velocidad Radial,Rocoso,1.2,4,HARPS
