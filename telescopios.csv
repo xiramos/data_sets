@@ -1,0 +1,5 @@
+id_telescopio,nombre,espejo_primario_m,pais_ubicacion
+T-VLT,Very Large Telescope,8.2,Chile
+T-ALMA,Atacama Large Millimeter Array,12.0,Chile
+T-KECK,W. M. Keck Observatory,10.0,Estados Unidos
+T-GEMINI,Gemini South,8.1,Chile
