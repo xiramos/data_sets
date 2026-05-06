@@ -1,0 +1,8 @@
+id_observacion,id_proyecto,id_telescopio,fecha_observacion,horas_utilizadas
+OBS-001,P-201,T-ALMA,15-May-2025,12.5
+OBS-002,P-201,T-VLT,2025/05/20,8.0
+OBS-003,P-202,T-ALMA,05/04/2025,15.0
+OBS-004,P-203,T-ALMA,10-Jun-2025,20.5
+OBS-005,P-204,T-GEMINI,TBA,5.0
+OBS-006,P-201,T-ALMA,2025/08/01,10.0
+OBS-007,P-205,T-KECK,12-Dec-2025,6.5
